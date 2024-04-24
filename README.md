@@ -51,7 +51,7 @@ if __name__ == "__main__":
     # Download file
     download_file(host, port, 'example.txt')
     print("File downloaded successfully.")
-``
+```
 
 ## OUTPUT
 
